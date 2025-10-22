@@ -1,4 +1,4 @@
-# Communication-efficient-distributional-Bayesian-cluster-learning
+# Communication-efficient-distributed-Bayesian-cluster-learning
 Welcome to the GitHub repository for Federated Bayesian Dimension Reduction and Variable Selection, an innovative approach that bridges the interpretability of Bayesian methods with the privacy-preserving and efficiency benefits of Federated Learning. This project introduces a novel framework designed to address the challenges of dimension reduction and variable selection in distributed settings, where data privacy and computational efficiency are paramount.
 
 # Overview
